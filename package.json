@@ -1,0 +1,7 @@
+{
+  "name": "stable-diffusion-docker",
+  "scripts": {
+    "build": "docker-compose build",
+    "deploy": "docker-compose up -d"
+  }
+}
